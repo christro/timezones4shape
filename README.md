@@ -5,9 +5,11 @@ Shapefiles of the world with time zones
 
 You can find shape files for countries and time zones at https://www.naturalearthdata.com/
 
-## 
+## Intersecting countries and time zones within QGIS
 
-https://github.com/christro/timezones4shape/blob/master/screenshots/Screenshot_countries_tz_01.png
+![alt text](https://github.com/christro/timezones4shape/blob/master/screenshots/Screenshot_countries_tz_01.png)
+
+
 
 ```
 Give examples
