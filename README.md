@@ -8,12 +8,14 @@ You can find shape files for countries and time zones at https://www.naturaleart
 ## Intersecting countries and time zones within QGIS
 
 ### Input datasets
+- ne_10m_admin_0_map_units.shp
+- inez
 
 ![alt text](https://github.com/christro/timezones4shape/blob/master/screenshots/Screenshot_countries_tz_01.png)
 
 ### Output datasets
 
-![alt text](https://github.com/christro/timezones4shape/blob/master/screenshots/Screenshot_countries_tz_02.png)
+![alt text](https://github.com/christro/timezones4shape/blob/master/screenshots/Screenshot_countries_tz_03.png)
 
 ```
 Give examples
