@@ -7,12 +7,14 @@ Shapefiles of the world with time zones
 - Difference between Souvereign States and Map Units: https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-details/
 - [Souvereign States](ne_10m_admin_0_sovereignty)
 - [Map Units](ne_10m_admin_0_map_units)
+- [Time Zones](ne_10m_time_zones)
 
 ## Intersecting countries and time zones within QGIS
 
 ### Input datasets
 - ne_10m_admin_0_map_units.shp
 - ne_10m_admin_0_sovereignty.shp
+- ne_10m_time_zones.shp
 
 ![alt text](https://github.com/christro/timezones4shape/blob/master/screenshots/Screenshot_countries_tz_01.png)
 
