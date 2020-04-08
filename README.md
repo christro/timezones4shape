@@ -1,4 +1,4 @@
-# Project Title
+# Time Zones for Countries
 Shapefiles of the world with time zones
 
 ## Sources
