@@ -1,12 +1,9 @@
-# timezones4shape
-Shapefiles of the world with time zones
 # Project Title
-
-One Paragraph of project description goes here
+Shapefiles of the world with time zones
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+Shape files for countries and time zones you can find at https://www.naturalearthdata.com/
 
 ### Prerequisites
 
