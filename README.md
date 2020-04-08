@@ -1,13 +1,13 @@
 # Project Title
 Shapefiles of the world with time zones
 
-## Getting Started
+## Sources
 
-Shape files for countries and time zones you can find at https://www.naturalearthdata.com/
+You can find shape files for countries and time zones at https://www.naturalearthdata.com/
 
-### Prerequisites
+## 
 
-What things you need to install the software and how to install them
+https://github.com/christro/timezones4shape/blob/master/screenshots/Screenshot_countries_tz_01.png
 
 ```
 Give examples
