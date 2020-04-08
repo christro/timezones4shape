@@ -7,9 +7,13 @@ You can find shape files for countries and time zones at https://www.naturaleart
 
 ## Intersecting countries and time zones within QGIS
 
+### Input datasets
+
 ![alt text](https://github.com/christro/timezones4shape/blob/master/screenshots/Screenshot_countries_tz_01.png)
 
+### Output datasets
 
+![alt text](https://github.com/christro/timezones4shape/blob/master/screenshots/Screenshot_countries_tz_02.png)
 
 ```
 Give examples
